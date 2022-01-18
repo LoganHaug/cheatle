@@ -1,5 +1,3 @@
-from audioop import reverse
-from hashlib import new
 import re
 
 class Cheater:
